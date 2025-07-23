@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-created fileges
-=======
-created file
->>>>>>> ef934af61ca08eec5644599d6d5e77399fc6e3d1
+created
+
